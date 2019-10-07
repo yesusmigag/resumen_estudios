@@ -1,3 +1,6 @@
+https://git-scm.com/book/es/v2
+
+
 CONFIGURACIÓN CUANDO COMIENZO UN PROYECTO CON GIT
 
 *Siempre al empezar un proyecto primero primero inspecciono los elementos :
